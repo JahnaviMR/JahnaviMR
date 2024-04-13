@@ -4,4 +4,4 @@ an enthusiastic learner, pursuing my degree in the field of Computer science and
 - 🌱 Currently exploring web technologies.
 - 💞️ I’m looking to collaborate on frontend web application based projects.
 - 📫 Reach me through: jahnavimr100@gmail.com
-- 🔗 Linkedin: jahnavi-m-r-8a178b289
+- 🔗 Linkedin: https://www.linkedin.com/in/jahnavi-m-r-8a178b289
